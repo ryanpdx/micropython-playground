@@ -2,4 +2,4 @@
 
 #undef MICROPY_HW_BOARD_NAME
 
-#define MICROPY_HW_BOARD_NAME               "Custom-F091RC"
+#define MICROPY_HW_BOARD_NAME   "Custom-F091RC"
